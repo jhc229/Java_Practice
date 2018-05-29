@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+org.webcat.eclipse.projectlink.preferences.data_notification_shown=true
+org.webcat.eclipse.projectlink.preferences.downloadURL=http\://web-cat.cs.vt.edu/Web-CAT/assignments.xml
+org.webcat.eclipse.projectlink.preferences.downloaded_projects=\#Fri Feb 19 16\:43\:13 EST 2016\r\nhttp\\\://web-cat.cs.vt.edu/Web-CAT/cs3114/Assignment2.zip\=Assignment2\r\nhttp\\\://web-cat.cs.vt.edu/Web-CAT/cs3114/Assignment1.zip\=Assignment1\r\n
+org.webcat.eclipse.projectlink.preferences.email=jhc229@vt.edu
+org.webcat.eclipse.projectlink.preferences.submitURL=https\://web-cat.cs.vt.edu/Web-CAT/WebObjects/Web-CAT.woa/wa/assignments/eclipse?institution\=VT
+org.webcat.eclipse.projectlink.preferences.urlType=separate
+org.webcat.eclipse.projectlink.preferences.user_uuid=0b6678dc-335c-4c52-a35f-48c560a5bc80
+org.webcat.eclipse.projectlink.preferences.username=jhc229
